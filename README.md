@@ -1,2 +1,26 @@
+
+<h1 align="center">
+  <img src="./Assets/pictures/header.jpg" alt="Redicube" />
+</h1>
+
+---
+
 # ProductionTime
-IA calculant le temp nécessaire pour la préparation d'un colis
+## Petit résumé
+
+- Le temp mis pour la préparation d'un colis est maintenant un facteur clé pour la compréhension de la durée de reception d'un colis et de l'optimisation de la chaine de production.
+
+## Objectifs
+
+- Création des features manquantes
+- Prédire le nombre de jour pour la préparation d'un colis
+- Optimiser le temp de préparation d'un colis.
+
+## Techno
+
+- Python
+- Jupyter
+
+## Auteur
+
+- [@Pierre](https://github.com/Pierre-Portfolio)
