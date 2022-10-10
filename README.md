@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="./Assets/pictures/header.jpg" alt="Redicube" />
+  <img src="./Assets/pictures/header.jpg" alt="Magasin" />
 </h1>
 
 ---
