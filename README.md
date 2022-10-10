@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="./Assets/pictures/header.jpg" alt="Magasin" />
+  <img src="./Assets/header.gif" alt="Magasin" />
 </h1>
 
 ---
